@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+web.archive.org	TRUE	/	FALSE	1999999999	wb-p-SERVER	wwwb-app222
+web.archive.org	TRUE	/	FALSE	1999999999	wb-save-SERVER	wwwb-app55
+
