@@ -1,0 +1,22 @@
+.wp-block-kadence-column.kb-section-dir-horizontal>.kt-inside-inner-col>.wp-block-kadence-column{flex:1}.wp-block-kadence-column.kb-section-dir-horizontal .wp-block-kadence-advancedgallery{flex:1}.wp-block-kadence-column{display:flex;flex-direction:column;z-index:1;min-width:0;min-height:0}.kt-inside-inner-col{flex-direction:column;border:0 solid rgba(0,0,0,0);position:relative;transition:all .3s ease}@media(max-width: 767px){.kvs-sm-false{display:none !important}}@media(min-width: 768px)and (max-width: 1024px){.kvs-md-false{display:none !important}}@media screen and (min-width: 1025px){.kvs-lg-false{display:none !important}}body.admin-bar{--kb-admin-bar-visible: 34px}@media screen and (max-width: 782px){body.admin-bar{--kb-admin-bar-visible: 46px}}.kb-section-is-sticky>.kt-inside-inner-col{position:sticky;top:calc(var(--kb-admin-bar-visible, 0px) + var(--kb-section-setting-offset, 0px))}.kt-inside-inner-col>.kb-section-is-sticky{position:sticky;top:calc(var(--kb-admin-bar-visible, 0px) + var(--kb-section-setting-offset, 0px))}.kt-inside-inner-col>.wp-block-cover{height:auto}.kb-section-has-link{position:relative}.kb-section-link-overlay{position:absolute;top:0;left:0;right:0;bottom:0;z-index:10}.kb-section-has-overlay{position:relative}.kb-section-has-overlay>.kt-inside-inner-col{z-index:1}.kb-section-has-overlay>.kt-inside-inner-col:before{content:"";opacity:.3;position:absolute;left:0;right:0;top:0;bottom:0;z-index:-1;transition:all .3s ease-in-out}
+
+/*
+     FILE ARCHIVED ON 21:41:11 Apr 08, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:40:15 Sep 08, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 4.982 (2)
+  exclusion.robots: 0.068 (2)
+  exclusion.robots.policy: 0.033 (2)
+  esindex: 0.042 (2)
+  cdx.remote: 97.525 (2)
+  LoadShardBlock: 435.231 (6)
+  PetaboxLoader3.datanode: 226.794 (8)
+  PetaboxLoader3.resolve: 219.963 (3)
+  load_resource: 195.509 (2)
+*/
